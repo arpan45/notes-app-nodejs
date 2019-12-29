@@ -1,6 +1,8 @@
 # Command line notes taking app written in JavaScript
 Simple note taking application in node JS
 
+![notes app cli in nodejs](https://github.com/arpan45/notes-app-nodejs/raw/master/Screenshot%202019-12-30%20at%201.29.17%20AM.png)
+
 # Usage
 
 * Add a new note: 
